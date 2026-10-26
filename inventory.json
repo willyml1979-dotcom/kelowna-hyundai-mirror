@@ -1,6 +1,6 @@
 {
   "dealership": "Kelowna Hyundai",
-  "generated_at": "2026-10-25T19:34:18",
+  "generated_at": "2026-10-26T04:40:43",
   "vehicle_count": 473,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -3163,7 +3163,7 @@
       "make": "Chevrolet",
       "model": "Traverse",
       "condition": "used",
-      "price": 31904.0,
+      "price": 31804.0,
       "price_currency": "CAD"
     },
     {
@@ -3190,13 +3190,13 @@
     },
     {
       "name": "2023 Ford Escape Hybrid ",
-      "vin": "1FMCU9PZXPUB09025",
+      "vin": "1FMCU0E19PUA55841",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/6ed3c416a02f.html",
       "year": 2023,
       "make": "Ford",
       "model": "Escape Hybrid",
       "condition": "used",
-      "price": 29404.0,
+      "price": 30904.0,
       "price_currency": "CAD"
     },
     {
@@ -3207,7 +3207,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 50904.0,
+      "price": 48904.0,
       "price_currency": "CAD"
     },
     {
@@ -3218,7 +3218,7 @@
       "make": "GMC",
       "model": "Yukon XL",
       "condition": "used",
-      "price": 80904.0,
+      "price": 77904.0,
       "price_currency": "CAD"
     },
     {
@@ -3229,7 +3229,7 @@
       "make": "Genesis",
       "model": "G70",
       "condition": "used",
-      "price": 38709.0,
+      "price": 36709.0,
       "price_currency": "CAD"
     },
     {
@@ -3245,18 +3245,18 @@
     },
     {
       "name": "2023 Genesis GV80 ",
-      "vin": "KMUHCESCXPU117874",
+      "vin": "KMUHCESC5PU144464",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/a236ca403a98.html",
       "year": 2023,
       "make": "Genesis",
       "model": "GV80",
       "condition": "used",
-      "price": 57709.0,
+      "price": 57904.0,
       "price_currency": "CAD"
     },
     {
       "name": "2023 Hyundai Elantra ",
-      "vin": "KMHLN4AG3PU515364",
+      "vin": "KMHLM4AG5PU482080",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/0215bec8509c.html",
       "year": 2023,
       "make": "Hyundai",
@@ -3273,18 +3273,18 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 23904.0,
+      "price": 23804.0,
       "price_currency": "CAD"
     },
     {
       "name": "2023 Hyundai Santa Fe ",
-      "vin": "5NMS3DAJ0PH621084",
+      "vin": "5NMS3DAJ5PH563974",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/3a58d01617e8.html",
       "year": 2023,
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 27904.0,
+      "price": 29404.0,
       "price_currency": "CAD"
     },
     {
@@ -3306,7 +3306,7 @@
       "make": "Hyundai",
       "model": "Sonata",
       "condition": "used",
-      "price": 26904.0,
+      "price": 26304.0,
       "price_currency": "CAD"
     },
     {
