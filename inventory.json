@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Hyundai",
-  "generated_at": "2026-11-16T23:38:19",
-  "vehicle_count": 500,
+  "generated_at": "2026-11-16T23:42:56",
+  "vehicle_count": 505,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -4811,7 +4811,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Hyundai Elantra Luxuryin Kelowna",
+      "name": "New 2026 Hyundai Elantra Luxury DISCOUNT $3,464 !!in Kelowna",
       "vin": "KMHLN4DG5TU241042",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/edf5686d8a8c.html",
       "year": 2026,
@@ -4830,6 +4830,17 @@
       "model": "Elantra",
       "condition": "new",
       "price": 27649.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Hyundai Elantra Luxuryin Kelowna",
+      "vin": "KMHLN4DGXTU306354",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/3cd48e0289cb.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "new",
+      "price": 31849.0,
       "price_currency": "CAD"
     },
     {
@@ -4943,14 +4954,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Hyundai Venue Essentialin Kelowna",
+      "name": "2026 Hyundai Venue Essential DISCOUNT $1,937 !! demoin Kelowna",
       "vin": "KMHRB8A33TU504527",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/1944ed503bcd.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
       "condition": "new",
-      "price": 24299.0,
+      "price": 24820.0,
       "price_currency": "CAD"
     },
     {
@@ -5149,6 +5160,50 @@
       "model": "Kona",
       "condition": "new",
       "price": 31749.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Venue Ultimatein Kelowna",
+      "vin": "KMHRC8A37VU506068",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/6962bb2b96f9.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "new",
+      "price": 29849.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Venue Essentialin Kelowna",
+      "vin": "KMHRB8A39VU507869",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/830ba30c03f7.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "new",
+      "price": 25749.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Venue Essentialin Kelowna",
+      "vin": "KMHRB8A37VU507692",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/3ac6befc635f.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "new",
+      "price": 26099.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Venue Preferredin Kelowna",
+      "vin": "KMHRC8A37VU506989",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/8bc472ddcf10.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "new",
+      "price": 27549.0,
       "price_currency": "CAD"
     }
   ]
