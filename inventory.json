@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Hyundai",
-  "generated_at": "2026-11-18T06:23:40",
-  "vehicle_count": 514,
+  "generated_at": "2026-11-18T06:32:20",
+  "vehicle_count": 513,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -4607,89 +4607,89 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Kona Electric ",
+      "name": "2026 Hyundai Kona Electricin Kelowna",
       "vin": "KM8HC3A64TU043747",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/f526d79f9e6e.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electric",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "price": 44898.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Palisade ",
+      "name": "2026 Hyundai Palisadein Kelowna",
       "vin": "KM8RMES27TU107594",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/a092e1b2e72c.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade",
+      "model": "Palisadein Kelowna",
       "condition": "new",
-      "price": 60029.0,
+      "price": 59529.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Palisade Hybrid ",
+      "name": "2026 Hyundai Palisade Hybridin Kelowna",
       "vin": "KM8RMESA0TU112286",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/0a610df013e5.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade Hybrid",
-      "condition": "new",
-      "price": 68149.0,
-      "price_currency": "CAD"
+      "model": "Palisade",
+      "condition": "new"
     },
     {
-      "name": "2026 Hyundai Santa Fe Hybrid ",
+      "name": "2026 Hyundai Santa Fe Hybridin Kelowna",
       "vin": "KM8P2DG15TU200301",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/a23509451142.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
+      "model": "Santa Fe",
       "condition": "new",
-      "price": 45298.0,
+      "price": 47567.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson ",
+      "name": "2026 Hyundai Tucsonin Kelowna",
       "vin": "KM8JBCDE2TU486034",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/e7e6923b406b.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson",
+      "model": "Tucsonin Kelowna",
       "condition": "new",
-      "price": 36739.0,
+      "price": 36489.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson Hybrid ",
+      "name": "2026 Hyundai Tucson Hybridin Kelowna",
       "vin": "KM8JCDD18TU476429",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/30eda1cb16f6.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid",
+      "model": "Tucson",
       "condition": "new",
-      "price": 45271.0,
+      "price": 44971.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson Plug-In Hybrid ",
-      "vin": "KM8JDDD25TU515855",
+      "name": "2026 Hyundai Tucson Plug-In Hybridin Kelowna",
+      "vin": "KM8JDDD27TU538750",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/9fdf35938cc5.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Plug-In Hybrid",
+      "model": "Tucson Plug-In",
       "condition": "new",
-      "price": 55699.0,
+      "price": 52448.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Venue ",
-      "vin": "KMHRB8A31TU476453",
+      "name": "2026 Hyundai Venuein Kelowna",
+      "vin": "KMHRB8A33TU504527",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/59d9f2073991.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue",
+      "model": "Venuein Kelowna",
       "condition": "new",
-      "price": 24900.0,
+      "price": 24820.0,
       "price_currency": "CAD"
     },
     {
@@ -4789,17 +4789,6 @@
       "model": "Elantra",
       "condition": "new",
       "price": 31193.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Hyundai Elantra Preferredin Kelowna",
-      "vin": "KMHLM4DG6TU277566",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/12f728187a8e.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 27649.0,
       "price_currency": "CAD"
     },
     {
@@ -5056,26 +5045,22 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai IONIQ 5 ",
+      "name": "2027 Hyundai IONIQ 5in Kelowna",
       "vin": "KM8KNDDC0VU425882",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/e90bfc3b52d8.html",
       "year": 2027,
       "make": "Hyundai",
-      "model": "IONIQ 5",
-      "condition": "new",
-      "price": 62249.0,
-      "price_currency": "CAD"
+      "model": "IONIQ",
+      "condition": "new"
     },
     {
-      "name": "2027 Hyundai Kona ",
-      "vin": "KM8HACABXVU520056",
+      "name": "2027 Hyundai Konain Kelowna",
+      "vin": "KM8HCCAB5VU540547",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/1f3bbbd2aec6.html",
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 31749.0,
-      "price_currency": "CAD"
+      "model": "Konain Kelowna",
+      "condition": "new"
     },
     {
       "name": "2027 Hyundai Kona Electric ",
