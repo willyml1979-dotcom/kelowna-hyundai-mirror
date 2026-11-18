@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Hyundai",
-  "generated_at": "2026-11-17T20:53:55",
-  "vehicle_count": 512,
+  "generated_at": "2026-11-18T06:23:40",
+  "vehicle_count": 514,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -113,14 +113,6 @@
       "name": "Chevrolet Cruze 2018 for salein Kelowna",
       "vin": "3G1BF6SM8JS627526",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/732a4c396ebf.html",
-      "condition": "used",
-      "price": 16904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Chrysler Pacifica 2018 for salein Kelowna",
-      "vin": "2C4RC1EG1JR173883",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/e8b397bd3978.html",
       "condition": "used",
       "price": 16904.0,
       "price_currency": "CAD"
@@ -414,6 +406,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Hyundai Sonata 2021 for salein Kelowna",
+      "vin": "5NPEG4JA0MH072342",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/9d34f7c76084.html",
+      "condition": "used",
+      "price": 18904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Venue 2021 for salein Kelowna",
       "vin": "KMHRC8A35MU090150",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/f701b392a325.html",
@@ -470,6 +470,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "RAM 1500 Classic 2021 for salein Kelowna",
+      "vin": "3C6RR7KTXMG548478",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/14e5e6042cdd.html",
+      "condition": "used",
+      "price": 28904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Tesla Model Y 2021 for salein Kelowna",
       "vin": "5YJYGDEE8MF229916",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/e0f97586cb90.html",
@@ -502,6 +510,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda CR-V 2022 for salein Kelowna",
+      "vin": "2HKRW2H99NH219120",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/b25bad244cfa.html",
+      "condition": "used",
+      "price": 36904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Honda Odyssey 2022 for salein Kelowna",
       "vin": "5FNRL6H65NB503221",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/1065c88c9700.html",
@@ -515,6 +531,14 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/b98c53851b4a.html",
       "condition": "used",
       "price": 31904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Venue 2022 for salein Kelowna",
+      "vin": "KMHRC8A3XNU189953",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/31672cee0d48.html",
+      "condition": "used",
+      "price": 22904.0,
       "price_currency": "CAD"
     },
     {
@@ -910,11 +934,83 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Kia Forte 2024 for salein Kelowna",
+      "vin": "3KPF24ADXRE792532",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/6fead18d9675.html",
+      "condition": "used",
+      "price": 20404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Seltos 2024 for salein Kelowna",
+      "vin": "KNDEU2AA5R7606136",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/5082417f3481.html",
+      "condition": "used",
+      "price": 22506.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sportage 2024 for salein Kelowna",
+      "vin": "KNDPUCDFXR7240096",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/96e33fab943d.html",
+      "condition": "used",
+      "price": 32904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Telluride 2024 for salein Kelowna",
+      "vin": "5XYP5DGC5RG528633",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/dd3b0e3422a5.html",
+      "condition": "used",
+      "price": 46797.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-5 2024 for salein Kelowna",
+      "vin": "JM3KFBCM6R0354112",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/f71616dd7198.html",
+      "condition": "used",
+      "price": 31904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-50 2024 for salein Kelowna",
+      "vin": "7MMVABCM9RN178079",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/39bf0d6d6cd2.html",
+      "condition": "used",
+      "price": 32404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda MX-5 2024 for salein Kelowna",
+      "vin": "JM1NDAC7XR0602605",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/4150c55940c8.html",
+      "condition": "used",
+      "price": 33604.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mitsubishi Mirage 2024 for salein Kelowna",
       "vin": "ML32AUHJ7RH038885",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/809af20ca6c5.html",
       "condition": "used",
       "price": 17204.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Outlander PHEV 2024 for salein Kelowna",
+      "vin": "JA4T5VA97RZ617052",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/c3f0e308f13d.html",
+      "condition": "used",
+      "price": 41904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi RVR 2024 for salein Kelowna",
+      "vin": "JA4AJVAW1RU607378",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/a160fb0d88a0.html",
+      "condition": "used",
+      "price": 23797.0,
       "price_currency": "CAD"
     },
     {
@@ -926,6 +1022,30 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Nissan Kicks 2024 for salein Kelowna",
+      "vin": "3N1CP5DV0RL551642",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/70ef920a7c8c.html",
+      "condition": "used",
+      "price": 24904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2024 for salein Kelowna",
+      "vin": "JN8BT3BB9RW176981",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/0e0498b6b996.html",
+      "condition": "used",
+      "price": 29904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Versa 2024 for salein Kelowna",
+      "vin": "3N1CN8DVXRL840180",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/d1d08b049dc3.html",
+      "condition": "used",
+      "price": 18197.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Polestar Polestar 2 2024 for salein Kelowna",
       "vin": "YSMFD3KA8RL224476",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/4101a342a8c1.html",
@@ -934,11 +1054,43 @@
       "price_currency": "CAD"
     },
     {
+      "name": "RAM 1500 2024 for salein Kelowna",
+      "vin": "1C6SRFVT3RN114408",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/6241d5f088b2.html",
+      "condition": "used",
+      "price": 55904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Corolla Hybrid 2024 for salein Kelowna",
+      "vin": "JTDBCMFE0R3040522",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/314265087630.html",
+      "condition": "used",
+      "price": 26797.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Toyota Sienna 2024 for salein Kelowna",
       "vin": "5TDGRKEC4RS216284",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/144d5b891fb2.html",
       "condition": "used",
       "price": 52709.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2024 for salein Kelowna",
+      "vin": "3VVFB7AX8RM117667",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/9b4dfd9d5625.html",
+      "condition": "used",
+      "price": 27904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Buick Encore GX 2025 for salein Kelowna",
+      "vin": "KL4AMCSL9SB202533",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/3e664129b47d.html",
+      "condition": "used",
+      "price": 26397.0,
       "price_currency": "CAD"
     },
     {
@@ -1070,6 +1222,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Jetta 2025 for salein Kelowna",
+      "vin": "3VWCX7BU4SM094074",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/7cf8eec7a0f5.html",
+      "condition": "used",
+      "price": 25904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Chevrolet Blazer 2026 for salein Kelowna",
       "vin": "3GNKBKRS0TS123479",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/2bbd2cdd8529.html",
@@ -1110,19 +1270,19 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda Civic Sedan 2026 for salein Kelowna",
+      "vin": "2HGFE2F24TH110387",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/cb5107d68aa9.html",
+      "condition": "used",
+      "price": 30904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mazda CX-90 MHEV 2026 for salein Kelowna",
       "vin": "JM3KKCHD3T1378413",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/a3bc418ec58b.html",
       "condition": "used",
       "price": 47904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota Corolla 2026 for salein Kelowna",
-      "vin": "JTDBCMFE2T3143903",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/0074320086ae.html",
-      "condition": "used",
-      "price": 36904.0,
       "price_currency": "CAD"
     },
     {
@@ -1491,17 +1651,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Chevrolet Cruze ",
-      "vin": "3G1BE5SM9HS550754",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/38be7b809ea9.html",
-      "year": 2017,
-      "make": "Chevrolet",
-      "model": "Cruze",
-      "condition": "used",
-      "price": 12908.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Ford Escape ",
       "vin": "1FMCU0GD1HUA17321",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/b9ddd2a4b7a2.html",
@@ -1824,17 +1973,6 @@
       "name": "2018 Honda Fit ",
       "vin": "3HGGK5H69JM101844",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/ee2682504cd7.html",
-      "year": 2018,
-      "make": "Honda",
-      "model": "Fit",
-      "condition": "used",
-      "price": 23904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Honda Fit Sport CVT w/Honda Sensing NO ACCIDENT! LOW KMS! GREAT ON GAS!in Kelowna",
-      "vin": "3HGGK5H69JM101844",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/a13cfc1784f5.html",
       "year": 2018,
       "make": "Honda",
       "model": "Fit",
@@ -2514,6 +2652,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2020 Hyundai Santa Fe Preferredin Kelowna",
+      "vin": "5NMS3CAA9LH267599",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/2a7332d14d1b.html",
+      "year": 2020,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "condition": "used",
+      "price": 23404.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020 Hyundai Santa Fe ",
       "vin": "5NMS2CAD1LH208379",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/581bc6855d2f.html",
@@ -2767,17 +2916,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Chevrolet Silverado 1500 ",
-      "vin": "1GCUYBEF6MZ152109",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/9e5b7f89f0c2.html",
-      "year": 2021,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 39404.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Chevrolet Trax ",
       "vin": "KL7CJLSB7MB325892",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/8a8ed4c9dcf0.html",
@@ -2874,6 +3012,17 @@
       "model": "Yukon",
       "condition": "used",
       "price": 50904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Hyundai Elantra Preferredin Kelowna",
+      "vin": "KMHLM4AG6MU186819",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/3aa6ae779d8f.html",
+      "year": 2021,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 19908.0,
       "price_currency": "CAD"
     },
     {
@@ -3493,17 +3642,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford Escape Hybrid ",
-      "vin": "1FMCU0E19PUA55841",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/6ed3c416a02f.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Escape Hybrid",
-      "condition": "used",
-      "price": 30904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Ford F-150 ",
       "vin": "1FTEW1EP6PFB04676",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/32b502fdd405.html",
@@ -3735,28 +3873,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Hyundai Elantra Preferred IVT w/Tech Pkg HEATED SEATS! BACKUP CAMERA! SUNROOF! ONE OWNER!in Kelowna",
-      "vin": "KMHLM4DG1RU845490",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/06d0d5b3fd0a.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 23904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Kia Forte ",
-      "vin": "3KPF34AD5RE784609",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/6fead18d9675.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "used",
-      "price": 19904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Kia K5 ",
       "vin": "5XXG24J22RG253025",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/bc160f41eed4.html",
@@ -3765,72 +3881,6 @@
       "model": "K5",
       "condition": "used",
       "price": 24904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Kia Seltos ",
-      "vin": "KNDEU2AA5R7606136",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/5082417f3481.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 24797.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Kia Sportage ",
-      "vin": "KNDPUCDF2R7305992",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/96e33fab943d.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 27797.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Kia Telluride ",
-      "vin": "5XYP5DGC5RG528633",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/dd3b0e3422a5.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Telluride",
-      "condition": "used",
-      "price": 50904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda CX-5 ",
-      "vin": "JM3KFBCM6R0354112",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/f71616dd7198.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 32904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda CX-50 ",
-      "vin": "7MMVABCM5RN218464",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/39bf0d6d6cd2.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-50",
-      "condition": "used",
-      "price": 40904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda MX-5 ",
-      "vin": "JM1NDAC7XR0602605",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/4150c55940c8.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "MX-5",
-      "condition": "used",
-      "price": 33904.0,
       "price_currency": "CAD"
     },
     {
@@ -3856,50 +3906,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Mitsubishi Outlander PHEV ",
-      "vin": "JA4T5VA98RZ612832",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/c3f0e308f13d.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "used",
-      "price": 43904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mitsubishi RVR ",
-      "vin": "JA4AJUAU9RU608416",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/a160fb0d88a0.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "RVR",
-      "condition": "used",
-      "price": 21904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Kicks ",
-      "vin": "3N1CP5DV5RL564192",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/70ef920a7c8c.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 25904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Rogue ",
-      "vin": "JN8BT3CB8RW446815",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/0e0498b6b996.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 30904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Nissan Sentra ",
       "vin": "3N1AB8CV8RY257904",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/2bb0b736f497.html",
@@ -3911,17 +3917,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Versa ",
-      "vin": "3N1CN8DVXRL840180",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/d1d08b049dc3.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Versa",
-      "condition": "used",
-      "price": 18404.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 RAM 3500 ",
       "vin": "3C63R3DJ7RG414349",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/fde9f04c1f1b.html",
@@ -3930,17 +3925,6 @@
       "model": "3500",
       "condition": "used",
       "price": 55904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Toyota Corolla Hybrid ",
-      "vin": "JTDBCMFE0R3040522",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/314265087630.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "Corolla Hybrid",
-      "condition": "used",
-      "price": 27904.0,
       "price_currency": "CAD"
     },
     {
@@ -3977,17 +3961,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen Tiguan ",
-      "vin": "3VVFB7AX8RM117667",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/9b4dfd9d5625.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 28904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Audi Q5 TSFI e ",
       "vin": "WA12AAGU8S2031745",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/c1324083b102.html",
@@ -3996,17 +3969,6 @@
       "model": "Q5",
       "condition": "used",
       "price": 53404.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Buick Encore GX ",
-      "vin": "KL4AMCSL9SB202533",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/3e664129b47d.html",
-      "year": 2025,
-      "make": "Buick",
-      "model": "Encore GX",
-      "condition": "used",
-      "price": 27397.0,
       "price_currency": "CAD"
     },
     {
