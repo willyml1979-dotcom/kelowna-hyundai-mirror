@@ -1,16 +1,32 @@
 {
   "dealership": "Kelowna Hyundai",
-  "generated_at": "2026-11-16T23:42:56",
-  "vehicle_count": 505,
+  "generated_at": "2026-11-17T20:49:42",
+  "vehicle_count": 513,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Volkswagen New Beetle 2010 for salein Kelowna",
+      "vin": "3VWRW2AL3AM002136",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/477754f770b7.html",
+      "condition": "used",
+      "price": 11907.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "BMW 3 Series 2011 for salein Kelowna",
       "vin": "WBAKF3C57BE567129",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/61e52697b19c.html",
       "condition": "used",
       "price": 15797.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Escape 2015 for salein Kelowna",
+      "vin": "1FMCU0GX1FUB85547",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/556ff2b34d99.html",
+      "condition": "used",
+      "price": 13904.0,
       "price_currency": "CAD"
     },
     {
@@ -118,6 +134,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda Civic Hatchback 2018 for salein Kelowna",
+      "vin": "SHHFK7H91JU304780",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/b1195b1c9cfd.html",
+      "condition": "used",
+      "price": 21904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Elantra 2018 for salein Kelowna",
+      "vin": "KMHD84LF7JU551145",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/fbaec775cfc7.html",
+      "condition": "used",
+      "price": 13908.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai IONIQ Hybrid 2018 for salein Kelowna",
       "vin": "KMHC75LC7JU095044",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/dcd8fa59817a.html",
@@ -198,6 +230,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Infiniti QX60 2019 for salein Kelowna",
+      "vin": "5N1DL0MM9KC523441",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/8a6b4a3f0d82.html",
+      "condition": "used",
+      "price": 21709.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Lincoln Nautilus 2019 for salein Kelowna",
       "vin": "2LMPJ8LP3KBL51506",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/111f5d4a1bdd.html",
@@ -259,6 +299,14 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/2fe7a281c3e4.html",
       "condition": "used",
       "price": 15904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai IONIQ Electric Plus 2020 for salein Kelowna",
+      "vin": "KMHC65LD7LU232711",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/8445ae037e00.html",
+      "condition": "used",
+      "price": 19904.0,
       "price_currency": "CAD"
     },
     {
@@ -350,14 +398,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Hyundai IONIQ Hybrid 2021 for salein Kelowna",
-      "vin": "KMHC05LCXMU251067",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/9f52aa3adee0.html",
-      "condition": "used",
-      "price": 20904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Hyundai IONIQ Plug-In Hybrid 2021 for salein Kelowna",
       "vin": "KMHC65LD8MU261328",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/08bf851b69d7.html",
@@ -395,6 +435,14 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/d0674af19274.html",
       "condition": "used",
       "price": 60904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Forte5 2021 for salein Kelowna",
+      "vin": "KNAF55ACXM5097120",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/399c6b897b47.html",
+      "condition": "used",
+      "price": 17904.0,
       "price_currency": "CAD"
     },
     {
@@ -494,6 +542,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Kia Rio5 2022 for salein Kelowna",
+      "vin": "3KPA25AD9NE486092",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/9ec7f2d253c3.html",
+      "condition": "used",
+      "price": 16904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mitsubishi Mirage 2022 for salein Kelowna",
       "vin": "ML32AUHJ4NH006017",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/7d536aca2093.html",
@@ -531,6 +587,22 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/b88f0f948df7.html",
       "condition": "used",
       "price": 26908.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Tucson Plug-In Hybrid 2023 for salein Kelowna",
+      "vin": "KM8JDDA25PU119516",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/1e0cf0acf331.html",
+      "condition": "used",
+      "price": 35907.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Venue 2023 for salein Kelowna",
+      "vin": "KMHRC8A3XPU264928",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/21760433485e.html",
+      "condition": "used",
+      "price": 21904.0,
       "price_currency": "CAD"
     },
     {
@@ -595,6 +667,14 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/28783bd49d0b.html",
       "condition": "used",
       "price": 27904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Stinger 2023 for salein Kelowna",
+      "vin": "KNAE55LC9P6138277",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/5cdb8ce82f31.html",
+      "condition": "used",
+      "price": 42797.0,
       "price_currency": "CAD"
     },
     {
@@ -694,6 +774,54 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Chrysler Pacifica 2024 for salein Kelowna",
+      "vin": "2C4RC3BG5RR193775",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/81e21865d246.html",
+      "condition": "used",
+      "price": 45904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Durango 2024 for salein Kelowna",
+      "vin": "1C4RDJDG1RC241649",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/ac07da3badeb.html",
+      "condition": "used",
+      "price": 42797.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco 2024 for salein Kelowna",
+      "vin": "1FMDE7BH7RLB38995",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/3f6116fc4a95.html",
+      "condition": "used",
+      "price": 46904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Super Duty F-350 SRW 2024 for salein Kelowna",
+      "vin": "1FT8W3BM0REC24162",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/eac8edc0921d.html",
+      "condition": "used",
+      "price": 97904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Genesis GV70 2024 for salein Kelowna",
+      "vin": "KMUMAET1XRU007363",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/7a34cbecff3d.html",
+      "condition": "used",
+      "price": 59404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Elantra 2024 for salein Kelowna",
+      "vin": "KMHLM4DG6RU847784",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/0cff320d2203.html",
+      "condition": "used",
+      "price": 23304.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Elantra Hybrid 2024 for salein Kelowna",
       "vin": "KMHLN4DJ7RU097353",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/aef361bd5b43.html",
@@ -702,11 +830,83 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Hyundai IONIQ 5 2024 for salein Kelowna",
+      "vin": "KM8KN4DE3RU237915",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/7ccbefeb2845.html",
+      "condition": "used",
+      "price": 39627.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Kona 2024 for salein Kelowna",
+      "vin": "KM8HBCAB2RU138364",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/3b030ed64251.html",
+      "condition": "used",
+      "price": 24404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Kona Electric 2024 for salein Kelowna",
+      "vin": "KM8HE3A68RU015016",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/b25d5ba46ef2.html",
+      "condition": "used",
+      "price": 33408.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Palisade 2024 for salein Kelowna",
+      "vin": "KM8R3DGE2RU780883",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/250498844906.html",
+      "condition": "used",
+      "price": 44904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Santa Fe 2024 for salein Kelowna",
+      "vin": "5NMP4DGL0RH014181",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/3f3bb47fd3f8.html",
+      "condition": "used",
+      "price": 38904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Tucson 2024 for salein Kelowna",
+      "vin": "KM8JBCDE8RU322005",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/ec63b249c796.html",
+      "condition": "used",
+      "price": 28904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Tucson Hybrid 2024 for salein Kelowna",
       "vin": "KM8JCCD1XRU182095",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/2f4a89d4985d.html",
       "condition": "used",
       "price": 37904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Venue 2024 for salein Kelowna",
+      "vin": "KMHRC8A39RU301406",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/8694bc4b4572.html",
+      "condition": "used",
+      "price": 17904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2024 for salein Kelowna",
+      "vin": "1C4RJHBG1RC205321",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/7f24a2e892bc.html",
+      "condition": "used",
+      "price": 36878.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 4xe 2024 for salein Kelowna",
+      "vin": "1C4RJXN64RW220097",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/5924e1fc99fe.html",
+      "condition": "used",
+      "price": 42904.0,
       "price_currency": "CAD"
     },
     {
@@ -790,6 +990,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Hyundai Elantra Hybrid 2025 for salein Kelowna",
+      "vin": "KMHLN4DJ0SU127623",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/f28b5df16f7e.html",
+      "condition": "used",
+      "price": 28904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Kona Electric 2025 for salein Kelowna",
       "vin": "KM8HE3A62SU030021",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/0beec915059d.html",
@@ -803,6 +1011,14 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/8a7eeb611bba.html",
       "condition": "used",
       "price": 31904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2025 for salein Kelowna",
+      "vin": "1C4PJXEN7SW624533",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/50c4bc92ab9f.html",
+      "condition": "used",
+      "price": 48904.0,
       "price_currency": "CAD"
     },
     {
@@ -851,14 +1067,6 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/889b5c3a7e8c.html",
       "condition": "used",
       "price": 39908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Volkswagen ID. Buzz 2025 for salein Kelowna",
-      "vin": "WVG6YVEB0SH025717",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/cc98d733a801.html",
-      "condition": "used",
-      "price": 63904.0,
       "price_currency": "CAD"
     },
     {
@@ -1019,14 +1227,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Hyundai Santa Fe Sport Limitedin Kelowna",
-      "vin": "5XYZUDLA9FG244949",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/16c994e4b3b2.html",
+      "name": "2015 Hyundai Santa Fe Sport SEin Kelowna",
+      "vin": "5XYZUDLA6FG243564",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/3abd55300ea9.html",
       "year": 2015,
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 13908.0,
+      "price": 11904.0,
       "price_currency": "CAD"
     },
     {
@@ -1646,6 +1854,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Hyundai Elantra GL Auto HEATED SEATS! BLUETOOTH! BACKUP CAMERA! ONE OWNER! NO ACCIDENT!in Kelowna",
+      "vin": "KMHD84LF7JU551145",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/060ab137ad14.html",
+      "year": 2018,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 13908.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Hyundai Santa Fe Sport 2.4L Luxury AWD SUNROOF! LEATHER! BACKUP CAMERA!in Kelowna",
       "vin": "5XYZUDLB9JG557419",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/898a78e3775f.html",
@@ -1976,6 +2195,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2019 Hyundai Tucson Preferred AWD LOW KMS! BLINDSPOT! HEATED SEATS!in Kelowna",
+      "vin": "KM8J3CA43KU972424",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/c46f625a12d5.html",
+      "year": 2019,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 19904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2019 Hyundai Tucson ",
       "vin": "KM8J3CAL9KU877468",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/9ad5fcbe07fa.html",
@@ -2094,17 +2324,6 @@
       "model": "Sentra",
       "condition": "used",
       "price": 12908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Nissan Versa Note ",
-      "vin": "3N1CE2CP4KL364532",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/bc399e6c364b.html",
-      "year": 2019,
-      "make": "Nissan",
-      "model": "Versa",
-      "condition": "used",
-      "price": 14904.0,
       "price_currency": "CAD"
     },
     {
@@ -2666,17 +2885,6 @@
       "model": "Elantra",
       "condition": "used",
       "price": 18327.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Hyundai IONIQ Hybrid Ultimate Hatchback FULL LOAD! SUNROOF! NAVIGATION!in Kelowna",
-      "vin": "KMHC05LCXMU251067",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/12c7ebb3a827.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "IONIQ Hybrid",
-      "condition": "used",
-      "price": 20904.0,
       "price_currency": "CAD"
     },
     {
@@ -3406,6 +3614,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Hyundai Venue Preferred IVT ONE OWNER! LOW KMS! BACKUP CAMERA!in Kelowna",
+      "vin": "KMHRC8A3XPU264928",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/aa0755331f4d.html",
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "used",
+      "price": 21904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Kia Seltos ",
       "vin": "KNDEU2AA7P7426265",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/2b2d44eceda1.html",
@@ -3461,39 +3680,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Chrysler Pacifica ",
-      "vin": "2C4RC3BG5RR193775",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/81e21865d246.html",
-      "year": 2024,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "used",
-      "price": 46904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Dodge Durango ",
-      "vin": "1C4RDJDG8RC167176",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/ac07da3badeb.html",
-      "year": 2024,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "used",
-      "price": 39904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Bronco ",
-      "vin": "1FMDE7BH7RLB38995",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/3f6116fc4a95.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used",
-      "price": 47904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Ford Bronco Sport ",
       "vin": "3FMCR9D94RRF15494",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/cf0db6370c5c.html",
@@ -3527,17 +3713,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford Super Duty F-350 SRW ",
-      "vin": "1FT8W3BM0REC24162",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/eac8edc0921d.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 100904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 GMC Terrain ",
       "vin": "3GKALTEG8RL332209",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/25c646676e9a.html",
@@ -3546,17 +3721,6 @@
       "model": "Terrain",
       "condition": "used",
       "price": 30908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Genesis GV70 ",
-      "vin": "KMUMAET14RU007553",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/7a34cbecff3d.html",
-      "year": 2024,
-      "make": "Genesis",
-      "model": "GV70",
-      "condition": "used",
-      "price": 50709.0,
       "price_currency": "CAD"
     },
     {
@@ -3579,127 +3743,6 @@
       "model": "Elantra",
       "condition": "used",
       "price": 23904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Elantra ",
-      "vin": "KMHLM4DG6RU847784",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/0cff320d2203.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 23908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai IONIQ 5 ",
-      "vin": "KM8KN4DE3RU237915",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/7ccbefeb2845.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "IONIQ 5",
-      "condition": "used",
-      "price": 39727.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Kona ",
-      "vin": "KM8HB3AB0RU150206",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/3b030ed64251.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 28904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Kona Electric ",
-      "vin": "KM8HE3A68RU015016",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/b25d5ba46ef2.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Kona Electric",
-      "condition": "used",
-      "price": 33904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Palisade ",
-      "vin": "KM8R3DGE2RU780883",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/250498844906.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Palisade",
-      "condition": "used",
-      "price": 47908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Santa Fe ",
-      "vin": "5NMP4DGL0RH014181",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/3f3bb47fd3f8.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 40904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Tucson ",
-      "vin": "KM8JCCDE9RU329557",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/ec63b249c796.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 28904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Venue Preferredin Kelowna",
-      "vin": "KMHRC8A36RU307597",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/60f2629b4c19.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Venue",
-      "condition": "used",
-      "price": 21904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Venue ",
-      "vin": "KMHRC8A39RU301406",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/8694bc4b4572.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Venue",
-      "condition": "used",
-      "price": 19404.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Grand Cherokee ",
-      "vin": "1C4RJHBG1RC205321",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/7f24a2e892bc.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 40904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Wrangler 4xe ",
-      "vin": "1C4RJXN64RW220097",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/5924e1fc99fe.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 47404.0,
       "price_currency": "CAD"
     },
     {
@@ -4088,17 +4131,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Elantra Preferred IVT w/Tech Pkg REMOTE START! LANE DEPARTURE! BLINDSPOT!in Kelowna",
-      "vin": "KMHLM4DG9SU905912",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/e802c44c327f.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 22904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Hyundai Elantra ",
       "vin": "KMHLM4DG5SU930239",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/36f6ac3a18f2.html",
@@ -4407,17 +4439,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Colorado ",
-      "vin": "1GCPTDEKXT1144080",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/79b745cb213a.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Colorado",
-      "condition": "used",
-      "price": 53904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chevrolet Silverado 1500 ",
       "vin": "2GCUKDED7T1128016",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/5aa4f261f84f.html",
@@ -4514,17 +4535,6 @@
       "model": "IONIQ 9",
       "condition": "used",
       "price": 74904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Kona ",
-      "vin": "KM8HBCAB8TU368188",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/used/ee0a3af97b8e.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 30904.0,
       "price_currency": "CAD"
     },
     {
