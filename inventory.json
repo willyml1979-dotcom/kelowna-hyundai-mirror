@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Hyundai",
-  "generated_at": "2026-11-17T20:49:42",
-  "vehicle_count": 513,
+  "generated_at": "2026-11-17T20:53:55",
+  "vehicle_count": 512,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -4593,26 +4593,24 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra ",
+      "name": "2026 Hyundai Elantrain Kelowna",
       "vin": "KMHLM4DG9TU149337",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/af08f20803e9.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra",
+      "model": "Elantrain Kelowna",
       "condition": "new",
       "price": 25884.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra Hybrid ",
-      "vin": "KMHLN4DJ1TU225447",
+      "name": "2026 Hyundai Elantra Hybridin Kelowna",
+      "vin": "KMHLN4DJ9TU227396",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/12e6286dc95f.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Hybrid",
-      "condition": "new",
-      "price": 34349.0,
-      "price_currency": "CAD"
+      "model": "Elantra",
+      "condition": "new"
     },
     {
       "name": "2026 Hyundai IONIQ 5in Kelowna",
@@ -4625,25 +4623,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai IONIQ 9 ",
+      "name": "2026 Hyundai IONIQ 9in Kelowna",
       "vin": "KM8MWFS38TA017469",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/26f5fbc9d28e.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "IONIQ 9",
+      "model": "IONIQ",
       "condition": "new",
-      "price": 77860.0,
+      "price": 80831.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Kona ",
+      "name": "2026 Hyundai Konain Kelowna",
       "vin": "KM8HACAB6TU454716",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/96d1ea90dc13.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona",
+      "model": "Konain Kelowna",
       "condition": "new",
-      "price": 28477.0,
+      "price": 28848.0,
       "price_currency": "CAD"
     },
     {
@@ -4865,14 +4863,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Kona Essential DISCOUNT $2,032 !! demoin Kelowna",
+      "name": "2026 Hyundai Kona Essential DISCOUNT $2,095 !! demoin Kelowna",
       "vin": "KM8HACABXTU493938",
       "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/e6d77b85292a.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
       "condition": "new",
-      "price": 31475.0,
+      "price": 31412.0,
       "price_currency": "CAD"
     },
     {
@@ -5159,17 +5157,6 @@
       "model": "Santa Fe Hybrid",
       "condition": "new",
       "price": 52349.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Hyundai Kona Essentialin Kelowna",
-      "vin": "KM8HACABXVU520056",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-hyundai-mirror/new/286d0a10919a.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 31749.0,
       "price_currency": "CAD"
     },
     {
